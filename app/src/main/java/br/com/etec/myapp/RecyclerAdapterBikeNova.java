@@ -33,6 +33,7 @@ public class RecyclerAdapterBikeNova extends RecyclerView.Adapter<RecyclerAdapte
             super(itemView);
             //apresentando o java para o xml
 
+
         }
     }
 
